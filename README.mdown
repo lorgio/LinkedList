@@ -1,0 +1,34 @@
+LinkedList
+========
+
+
+  Please create a linked list application with the following capabilities:
+
+* Login and account creation
+* RSpec & Cucumber Tests
+* The following methods need to be on the List Object
+  * addLast(object)
+   * addFirst(object)
+   * last
+   * first
+   * removeLast
+   * removeFirst
+   * size
+   * each
+   * reverse_each   
+* Bonus points for incorporating      
+    * Ajax(Drag & Drop linked items)
+    * CSS
+    * Nice templates/layouts
+    * Updating THIS README 
+      * See: [Tom Preston Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+      * See: [Matt Parker](http://www.slideshare.net/moonmaster9000/readme-driven-development "README Presentation")
+        
+
+
+Notes:
+------
+
+Default Database is MySQL, but you can use any other one you like, e.g. SQLite3, PostgreSQL
+
+After 4 hours your github access will be turned off for this repo.
